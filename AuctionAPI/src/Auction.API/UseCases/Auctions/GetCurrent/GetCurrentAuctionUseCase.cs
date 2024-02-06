@@ -1,5 +1,5 @@
 ﻿using Auction.API.Entities;
-using Auction.API.Repository;
+using Microsoft.EntityFrameworkCore;
 
 namespace Auction.API.UseCases.Auctions.GetCurrent;
 
@@ -7,7 +7,9 @@ public class GetCurrentAuctionUseCase
 {
     public AuctionEnt Execute()
     {
-        var repository = new AuctionAPIDbContext();
-        return repository.Auctions.First();
+      
+    /*    return repository
+            .Auctions
+            .Include(auction => auction.Items).First();*/
     }
 }
