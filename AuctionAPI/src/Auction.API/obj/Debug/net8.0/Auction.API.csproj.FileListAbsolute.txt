@@ -30,3 +30,4 @@ C:\Users\carlo\source\repos\AuctionApi\AuctionAPI\src\Auction.API\obj\Debug\net8
 C:\Users\carlo\source\repos\AuctionApi\AuctionAPI\src\Auction.API\obj\Debug\net8.0\Auction.API.pdb
 C:\Users\carlo\source\repos\AuctionApi\AuctionAPI\src\Auction.API\obj\Debug\net8.0\Auction.API.genruntimeconfig.cache
 C:\Users\carlo\source\repos\AuctionApi\AuctionAPI\src\Auction.API\obj\Debug\net8.0\ref\Auction.API.dll
+C:\Users\carlo\source\repos\AuctionApi\AuctionAPI\src\Auction.API\obj\Debug\net8.0\Auction.API.sourcelink.json
