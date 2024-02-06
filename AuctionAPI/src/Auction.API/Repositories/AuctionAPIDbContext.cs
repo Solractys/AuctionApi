@@ -1,11 +1,11 @@
-﻿using Auction.API.Entities;
+﻿using RocketseatAuction.API.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace Auction.API.Repository;
+namespace RocketseatAuction.API.Repository;
 
 public class AuctionAPIDbContext : DbContext
 {
-    public DbSet<AuctionEnt> Auctions { get; set; }
+    public DbSet<Auction> Auctions { get; set; }
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         optionsBuilder.UseSqlite("Data Source=C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\Db\\leilaoDbNLW.db");

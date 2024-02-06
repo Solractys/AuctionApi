@@ -1602,9 +1602,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlo\\source\\repos\\AuctionApi\\AuctionAPI\\src\\Auction.API\\Auction.API.csproj",
-      "projectName": "Auction.API",
-      "projectPath": "C:\\Users\\carlo\\source\\repos\\AuctionApi\\AuctionAPI\\src\\Auction.API\\Auction.API.csproj",
+      "projectUniqueName": "C:\\Users\\carlo\\source\\repos\\AuctionApi\\AuctionAPI\\src\\Auction.API\\RocketseatAuction.API.csproj",
+      "projectName": "RocketseatAuction.API",
+      "projectPath": "C:\\Users\\carlo\\source\\repos\\AuctionApi\\AuctionAPI\\src\\Auction.API\\RocketseatAuction.API.csproj",
       "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\carlo\\source\\repos\\AuctionApi\\AuctionAPI\\src\\Auction.API\\obj\\",
       "projectStyle": "PackageReference",

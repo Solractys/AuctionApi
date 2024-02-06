@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4NG34RcasmzrfOQ1jO7uEWJRZ8xJf9Veh+WJJd9mADImZ4blG6stW+D3z9LA5nI94uZ46AXhrCQ4D3dKQ/Ejxg==",
+  "dgSpecHash": "rqugFIEHSjz5WfZLXHfyix694tD9zClZTinjw+BDi0qLMB9s8y+pXCfPJEebsI5W2IkzrnbjNTonfRyIj8n8zQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\carlo\\source\\repos\\AuctionApi\\AuctionAPI\\src\\Auction.API\\Auction.API.csproj",
+  "projectFilePath": "C:\\Users\\carlo\\source\\repos\\AuctionApi\\AuctionAPI\\src\\Auction.API\\RocketseatAuction.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carlo\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.1\\microsoft.data.sqlite.core.8.0.1.nupkg.sha512",
     "C:\\Users\\carlo\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.1\\microsoft.entityframeworkcore.8.0.1.nupkg.sha512",

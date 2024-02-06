@@ -1,7 +1,7 @@
-﻿using Auction.API.UseCases.Auctions.GetCurrent;
+﻿using RocketseatAuction.API.UseCases.Auctions.GetCurrent;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Auction.API.Controllers;
+namespace RocketseatAuction.API.Controllers;
 
 [Route("api/[controller]")]
 [ApiController]
