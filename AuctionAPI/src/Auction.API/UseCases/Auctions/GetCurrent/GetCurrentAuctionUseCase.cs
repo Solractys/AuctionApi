@@ -8,11 +8,12 @@ public class GetCurrentAuctionUseCase
 {
     public Auction? Execute()
     {
-        var today = DateTime.Now;
+        var today = DateTime.Today;
 
         var repository = new AuctionAPIDbContext();
             return repository
             .Auctions
-            .Include(auction => auction.Items).FirstOrDefault(auction => today >= auction.Starts && today <= auction.Ends);
+            .Include(auction => auction.Items)
+            .FirstOrDefault(auction => today >= auction.Starts && today <= auction.Ends);
     }
 }
